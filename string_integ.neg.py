@@ -1,3 +1,3 @@
 name="nikhil reddy"
 print("given string is:",name)
-print("in backward direction:",name[-6])
+print("we are finding -6 indexing value in string is:",name[-6])
